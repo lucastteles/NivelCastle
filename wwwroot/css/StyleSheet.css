@@ -46,14 +46,14 @@ button {
 }
 
 .section-combo {
-    display:flex;
+    display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
 }
 
 .card-combo {
-    margin-top:-185px;
+    margin-top: -185px;
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -68,13 +68,13 @@ button {
 .combo {
     width: 30%;
     height: 40vh;
-    margin:15px;
+    margin: 15px;
 }
 
 .teste {
     display: flex;
     margin-top: -35px;
-} 
+}
 
 .bemvindo {
     justify-content: center;
@@ -95,9 +95,9 @@ button {
     flex-direction: column;
 }
 
-.burguer{
-    width:50vw;
-    height:80vh;
+.burguer {
+    width: 50vw;
+    height: 80vh;
 }
 
 .Card-text {
@@ -120,14 +120,22 @@ button {
     display: flex;
     text-align: right;
     justify-content: right;
-    margin-right:80px;
+    margin-right: 80px;
 }
 
 
 .delivery {
     background-color: #CD7F32;
-    display:flex;
-  
+    display: flex;
+}
+
+.dede {
+    margin-top: 50px;
+    display: flex;
+    text-align: left;
+    justify-content: left;
+    flex-direction: column;
+    margin: 50px;
 }
 
 .delivery-laranja {
@@ -142,9 +150,7 @@ button {
     display: flex;
     text-align: right;
     justify-content: right;
-
 }
 
-.montagem{
-
+.montagem {
 }
